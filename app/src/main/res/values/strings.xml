@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">环球新闻</string>
+    <string name="register_debug">订阅Debug消息</string>
+    <string name="register_dtest">订阅拨测告警消息</string>
+    <string name="register_hy_report">订阅行研日志消息</string>
+    <string name="register_migu_log">订阅用户画像消息</string>
+    <string name="icon_home">&#xe60b;</string>
+    <string name="icon_my">&#xe8aa;</string>
+    <string name="icon_setting">&#xe6a7;</string>
+    <string name="icon_other">&#xe635;</string>
+    <string name="label_home">首页</string>
+    <string name="label_my">我的</string>
+    <string name="label_setting">设置</string>
+    <string name="label_other">其他</string>
+    <string name="wait">敬请期待</string>
+</resources>
