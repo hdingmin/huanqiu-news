@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <color name="hq_theme_color">#910910</color>
+    <color name="hq_divider_line">#F0F0F0</color>
+    <color name="hq_sub_title">#9B9B9B</color>
+    <color name="hq_title">#464646</color>
+    <color name="hq_cat_title">#6D6D6D</color>
+    <color name="hq_bold_title">#4A4A4A</color>
 </resources>
